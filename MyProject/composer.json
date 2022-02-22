@@ -1,0 +1,9 @@
+{
+    "name": "root/my-project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Project\\" : "src/"
+        }
+    }
+}
